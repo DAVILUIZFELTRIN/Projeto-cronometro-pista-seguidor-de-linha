@@ -73,8 +73,6 @@ O LED emissor IR e o fotorreceptor foram instalados nas laterais internas do por
 #### Passo 4: Estrutura Finalizada na Pista
 A estrutura montada e selada é posicionada sobre a linha de chegada/largada da pista de competição, pronta para operar via Wi-Fi.
 
-![Visão Geral do Portal Montado](https://i.postimg.cc/MpJmmLts/shared-image-(4).jpg)
-
 <div align="center">
   <img src="https://i.postimg.cc/MpJmmLts/shared-image-(4).jpg" alt="Visão Geral do Portal Montado" width="50%">
 </div>
