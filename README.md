@@ -50,6 +50,10 @@ O projeto do portal foi modelado digitalmente para validar as dimensões física
 
 ![Modelagem 3D no Tinkercad](https://i.postimg.cc/bN0dtV5K/Captura-de-tela-2026-07-23-170659.jpg)
 
+<div align="center">
+  <img src="https://i.postimg.cc/bN0dtV5K/Captura-de-tela-2026-07-23-170659.jpg" alt="Descrição da Imagem" width="50%">
+</div>
+
 #### Passo 2: Alojamento da Eletrônica e Alimentação
 Dentro do corpo da estrutura, foram reservados compartimentos para acomodar as duas baterias, o módulo Step-Down LM2596, a placa ESP32 e a chave gangorra (Liga/Desliga).
 
