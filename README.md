@@ -48,27 +48,36 @@ Toda a eletrônica foi embutida dentro de um portal (pórtico) prototipado e dim
 #### Passo 1: Prototipagem e Modelagem 3D (Tinkercad)
 O projeto do portal foi modelado digitalmente para validar as dimensões físicas, o alojamento dos componentes e o vão livre de passagem dos carrinhos.
 
-![Modelagem 3D no Tinkercad](https://i.postimg.cc/bN0dtV5K/Captura-de-tela-2026-07-23-170659.jpg)
-
 <div align="center">
-  <img src="https://i.postimg.cc/bN0dtV5K/Captura-de-tela-2026-07-23-170659.jpg" alt="Descrição da Imagem" width="50%">
+  <img src="https://i.postimg.cc/bN0dtV5K/Captura-de-tela-2026-07-23-170659.jpg" alt="Modelagem 3D no Tinkercad" width="50%">
 </div>
 
 #### Passo 2: Alojamento da Eletrônica e Alimentação
 Dentro do corpo da estrutura, foram reservados compartimentos para acomodar as duas baterias, o módulo Step-Down LM2596, a placa ESP32 e a chave gangorra (Liga/Desliga).
 
-![Montagem Interna do Circuito e Alimentação](https://i.postimg.cc/0y1004ZH/shared-image-(2).jpg)
+<div align="center">
+  <img src="https://i.postimg.cc/0y1004ZH/shared-image-(2).jpg" alt="Montagem Interna do Circuito e Alimentação" width="50%">
+</div>
 
 #### Passo 3: Fixação e Alinhamento dos Sensores IR
 O LED emissor IR e o fotorreceptor foram instalados nas laterais internas do portal. O alinhamento óptico preciso entre ambos é essencial para garantir a detecção sem falhas ao interromper o feixe.
 
-![Posicionamento dos Sensores IR no Portal](https://i.postimg.cc/3xQFFq9c/shared-image-(3).jpg)
-![Posicionamento dos Sensores IR no Portal](https://i.postimg.cc/2SN77tT9/shared-image-(5).jpg)
+<div align="center">
+  <img src="https://i.postimg.cc/3xQFFq9c/shared-image-(3).jpg" alt="Posicionamento dos Sensores IR no Portal" width="50%">
+</div>
+
+<div align="center">
+  <img src="https://i.postimg.cc/2SN77tT9/shared-image-(5).jpg" alt="Posicionamento dos Sensores IR no Portal" width="50%">
+</div>
 
 #### Passo 4: Estrutura Finalizada na Pista
 A estrutura montada e selada é posicionada sobre a linha de chegada/largada da pista de competição, pronta para operar via Wi-Fi.
 
 ![Visão Geral do Portal Montado](https://i.postimg.cc/MpJmmLts/shared-image-(4).jpg)
+
+<div align="center">
+  <img src="https://i.postimg.cc/MpJmmLts/shared-image-(4).jpg" alt="Visão Geral do Portal Montado" width="50%">
+</div>
 
 ## 💻 Arquitetura e Funcionamento do Código
 
