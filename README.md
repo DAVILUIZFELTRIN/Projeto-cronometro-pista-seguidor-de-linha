@@ -7,7 +7,6 @@
 ## 📌 Sumário
 
 - [Sobre o Projeto](#-sobre-o-projeto)
-- [Arquitetura e Funcionamento](#-arquitetura-e-funcionamento)
 - [Componentes do Hardware](#-componentes-do-hardware)
 - [Estrutura Física e Modelagem 3D](#-estrutura-física-e-modelagem-3d)
 - [Como Configurar e Executar](#-como-configurar-e-executar)
