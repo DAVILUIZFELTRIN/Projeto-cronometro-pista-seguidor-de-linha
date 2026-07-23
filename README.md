@@ -48,7 +48,7 @@ Toda a eletrônica foi embutida dentro de um portal (pórtico) prototipado e dim
 #### Passo 1: Prototipagem e Modelagem 3D (Tinkercad)
 O projeto do portal foi modelado digitalmente para validar as dimensões físicas, o alojamento dos componentes e o vão livre de passagem dos carrinhos.
 
-![Modelagem 3D no Tinkercad](https://i.postimg.cc/tg0wPDVC/Captura-de-tela-2026-07-23-164218.png)
+![Modelagem 3D no Tinkercad](https://i.postimg.cc/9XJG7MqL/Captura-de-tela-2026-07-23-170659.png)
 
 #### Passo 2: Alojamento da Eletrônica e Alimentação
 Dentro do corpo da estrutura, foram reservados compartimentos para acomodar as duas baterias, o módulo Step-Down LM2596, a placa ESP32 e a chave gangorra (Liga/Desliga).
